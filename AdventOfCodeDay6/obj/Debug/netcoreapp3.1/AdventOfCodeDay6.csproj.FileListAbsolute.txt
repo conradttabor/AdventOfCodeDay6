@@ -1,0 +1,11 @@
+C:\Users\Streamer\Source\Repos\AdventOfCodeDay6\AdventOfCodeDay6\bin\Debug\netcoreapp3.1\AdventOfCodeDay6.exe
+C:\Users\Streamer\Source\Repos\AdventOfCodeDay6\AdventOfCodeDay6\bin\Debug\netcoreapp3.1\AdventOfCodeDay6.deps.json
+C:\Users\Streamer\Source\Repos\AdventOfCodeDay6\AdventOfCodeDay6\bin\Debug\netcoreapp3.1\AdventOfCodeDay6.runtimeconfig.json
+C:\Users\Streamer\Source\Repos\AdventOfCodeDay6\AdventOfCodeDay6\bin\Debug\netcoreapp3.1\AdventOfCodeDay6.runtimeconfig.dev.json
+C:\Users\Streamer\Source\Repos\AdventOfCodeDay6\AdventOfCodeDay6\bin\Debug\netcoreapp3.1\AdventOfCodeDay6.dll
+C:\Users\Streamer\Source\Repos\AdventOfCodeDay6\AdventOfCodeDay6\bin\Debug\netcoreapp3.1\AdventOfCodeDay6.pdb
+C:\Users\Streamer\Source\Repos\AdventOfCodeDay6\AdventOfCodeDay6\obj\Debug\netcoreapp3.1\AdventOfCodeDay6.csprojAssemblyReference.cache
+C:\Users\Streamer\Source\Repos\AdventOfCodeDay6\AdventOfCodeDay6\obj\Debug\netcoreapp3.1\AdventOfCodeDay6.AssemblyInfoInputs.cache
+C:\Users\Streamer\Source\Repos\AdventOfCodeDay6\AdventOfCodeDay6\obj\Debug\netcoreapp3.1\AdventOfCodeDay6.AssemblyInfo.cs
+C:\Users\Streamer\Source\Repos\AdventOfCodeDay6\AdventOfCodeDay6\obj\Debug\netcoreapp3.1\AdventOfCodeDay6.dll
+C:\Users\Streamer\Source\Repos\AdventOfCodeDay6\AdventOfCodeDay6\obj\Debug\netcoreapp3.1\AdventOfCodeDay6.pdb
